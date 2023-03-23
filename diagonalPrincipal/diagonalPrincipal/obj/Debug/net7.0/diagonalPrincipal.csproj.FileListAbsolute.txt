@@ -1,0 +1,15 @@
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\bin\Debug\net7.0\diagonalPrincipal.exe
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\bin\Debug\net7.0\diagonalPrincipal.deps.json
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\bin\Debug\net7.0\diagonalPrincipal.runtimeconfig.json
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\bin\Debug\net7.0\diagonalPrincipal.dll
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\bin\Debug\net7.0\diagonalPrincipal.pdb
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.csproj.AssemblyReference.cache
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.AssemblyInfoInputs.cache
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.AssemblyInfo.cs
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.dll
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\refint\diagonalPrincipal.dll
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.pdb
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\diagonalPrincipal.genruntimeconfig.cache
+C:\Users\Lucia\Desktop\PP progamacion\diagonalPrincipal\diagonalPrincipal\obj\Debug\net7.0\ref\diagonalPrincipal.dll
